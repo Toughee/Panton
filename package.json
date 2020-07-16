@@ -1,0 +1,29 @@
+{
+  "name": "pantone-clock",
+  "version": "1.0.0",
+  "description": "Javascript clock with transitioning color background",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toughee/Pantone-clock.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Pantones",
+    "Pantone",
+    "Color",
+    "Schemes",
+    "Minimalism",
+    "Time",
+    "Experimental"
+  ],
+  "author": "Toughee",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/Toughee/Pantone-clock/issues"
+  },
+  "homepage": "https://github.com/Toughee/Pantone-clock#readme"
+}
