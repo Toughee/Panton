@@ -1,6 +1,6 @@
-# Pantone-Clock
+# Panton
 
-![Pantone-clock Screenshot](img/Screenshot-pic.JPG)
+![Panton Screenshot](img/Screenshot-pic.JPG)
 
-Simple Vanilla Javascript app with a changing color background. Currently a W.I.P
+Simple Javascript clock with a changing color background. Currently a W.I.P
 
