@@ -1,6 +1,6 @@
 {
-  "name": "pantone-clock",
-  "version": "1.0.0",
+  "name": "Panton",
+  "version": "0.2.0",
   "description": "Javascript clock with transitioning color background",
   "main": "index.js",
   "scripts": {

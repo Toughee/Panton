@@ -16,5 +16,5 @@
 
 <!---
 Example: 
-Fix|Update for Don/PR-Number/name_of_fix
+Fix|Update for Panton/PR-Number/name_of_fix
 --->
