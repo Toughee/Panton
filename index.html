@@ -24,19 +24,21 @@
     <script src='https://kit.fontawesome.com/a076d05399.js'></script>
 </head>
 
-<body onload="clockStart()">
+<body>
     <nav>
         <h3 class="desctitle">Panton</h3>
     </nav>
     <main>
         <h1 id="pntclock">
-            00:00:00 AM
+            <div id="timelocl" class="pntclock" onload="pntClock()"></div>
         </h1>
+        <!-- <a href="#"><button class="myButton" onclick="change()">Change color</a><button> -->
+        <!-- <button>testtt</button> -->
     </main>
     <aside class="desc">
         <h5 class="desctext">A simple clock with changing pantone colors in the background.</h5>
         <h6 class="desctext"><a href="https://github.com/Toughee/Pantone-clock">Github page</a></h6>
     </aside>
 </body>
-<script src="js/clock.js">
-< /html>
+<script src="clock.js"></script>
+</html>
