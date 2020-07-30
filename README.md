@@ -2,5 +2,4 @@
 
 ![Panton-Screenshot](img/Screenshot-pic.jpg)
 
-Simple Javascript clock. Changes color by pressing a button on the right side of the screen. Currently a W.I.P
-
+Simple Javascript clock. Change pantone colors in the press of a button. Currently a W.I.P
