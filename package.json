@@ -1,6 +1,6 @@
 {
   "name": "Panton",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Javascript clock with transitioning color background",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Toughee/Pantone-clock.git"
+    "url": "git+https://github.com/Toughee/Panton.git"
   },
   "keywords": [
     "Javascript",
@@ -23,7 +23,15 @@
   "author": "Toughee",
   "license": "Apache",
   "bugs": {
-    "url": "https://github.com/Toughee/Pantone-clock/issues"
+    "url": "https://github.com/Toughee/Panton/issues"
   },
-  "homepage": "https://github.com/Toughee/Pantone-clock#readme"
+  "homepage": "https://github.com/Toughee/Panton#readme",
+  "dependencies": {
+    "babel-loader": "^8.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "webpack": "^4.44.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
 }
