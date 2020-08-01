@@ -1,6 +1,6 @@
 {
   "name": "Panton",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Javascript clock with transitioning color background",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,8 @@
     "Schemes",
     "Minimalism",
     "Time",
-    "Experimental"
+    "Experimental",
+    "Multicolor"
   ],
   "author": "Toughee",
   "license": "Apache",
