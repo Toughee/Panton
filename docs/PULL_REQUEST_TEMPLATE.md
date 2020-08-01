@@ -1,6 +1,11 @@
 # List of changes
 
 
+
+
+-------------------------------------------------------------
+
+
 # Type of PR
 
 * New feature
@@ -10,10 +15,10 @@
 
 ------------------------------------------------------------
 
-## PR description
+## Error check
 
-- [ ] Recent PR does not interfere with app functionality
-- [ ] Recent PR does not fail any tests
+- [] Recent PR does not interfere with app functionality
+- [] Recent PR does not fail any tests
 
 ------------------------------------------------------------
 
